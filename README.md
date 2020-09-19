@@ -11,7 +11,7 @@ Web Mentor Webinar Episode 6
 
 #### Google Season of Docs: https://developers.google.com/season-of-docs/
 
-#### Hactoberfest: https://hacktoberfest.digitalocean.com/
+#### Hacktoberfest: https://hacktoberfest.digitalocean.com/
 
 ## Want to begin contributing in a small and easy Open-Source Project? 
 
